@@ -1,0 +1,8 @@
+Package: perceptrongrafica
+Title: Visualizacion de un Perceptron Simple
+Version: 0.1.0
+Authors@R: person("Glenda", "Blanc", role = c("aut", "cre"), email = "blanc.glenda@gmail.com")
+Description: Representa los resultados de clasificacion binaria y la frontera de decision de un perceptron para dos variables.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Imports: ggplot2
